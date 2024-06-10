@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "${workspaceFolder:api}/temp/app.db",
+      "name": "API_NODE"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
